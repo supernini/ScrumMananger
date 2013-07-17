@@ -1,0 +1,5 @@
+== Bienvenu sur ScrumManager
+
+ScrumManager est une application open source concu pour gérer des projets en mode Agile/Scrum
+
+Plus de détail a venir...
